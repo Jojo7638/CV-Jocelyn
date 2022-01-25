@@ -11,7 +11,7 @@
 	Suivi du processus des prêts de véhicule salarié.
 	Participation active aux événements interne à l’usine (vœux de direction, cérémonie de médaille du travail, distribution des cadeaux de fin d’année)
 	Organisation séminaires, déplacements professionnels.
-###•	HSE
+### •	HSE
 	Gestion vêtements de travail avec l’UET PHF de l’usine et gestion de la logistique avec le centre de nettoyage.
 	Mise en place d’un distributeur EPI pour l’atelier peinture (Équipement de protection individuel). (Stocks, Coûts …).
 	Réalisation Audit 5S extérieur, suivi des actions2020 – A aujourd’hui  Licence Gestion de projet  Greta / Dieppe
